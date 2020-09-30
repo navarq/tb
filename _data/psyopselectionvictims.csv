@@ -1,4 +1,5 @@
 psyopsvictimsid, country, year, beneficiary, looser, leader, looserleader, policies, for
+0, 'South Africa', 1994, ANC, NA, 'Nelson Mandela', 'F.W. de Klerk', 1, neutral
 1, Thailand, 1997, NA, NA, 'Haji Muhammad Suharto', NA, right
 2, India, 1998, BJP, Congress, 'Atal Bihari Vajpayee', 2, right
 3, Indonesia, 1998, 
@@ -14,16 +15,17 @@ psyopsvictimsid, country, year, beneficiary, looser, leader, looserleader, polic
 13, Italy, 2022
 14, Kenya, 2013
 15, Columbia, 2011
-16, 'South Africa', 1994
+16, 
 17, Antiga, 2013
 18, India, 2019, BJP, 'Nahendra Modi', 2, right
 19, 'St Kitts & Nevis', 2010, right
 20, Brazil, 
 21, UK,  
-Ghana, 
-Lithuiania,
-Nigeria, 2002/2015
-Burma, 
+22, Ghana, 
+23, Lithuiania,
+24, Nigeria, 2002
+25, Nigeria, 2015
+26, Burma, NA 
 Libya,
 Eygpt,
 Libya, 
